@@ -19,6 +19,12 @@ body {
   clear: both;
 }
 
+.container-contact {
+  width: 100%;
+  max-width: 960px;
+  clear: both;
+}
+
 h1,
 h2,
 h3,
@@ -53,7 +59,6 @@ h3 {
 /* header */
 
 #masthead {
-  z-index: -1;
   color: #fff;
   background: #fff;
   border-bottom: 2px solid #ccc;
